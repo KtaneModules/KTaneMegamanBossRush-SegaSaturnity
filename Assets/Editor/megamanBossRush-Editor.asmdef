@@ -1,0 +1,10 @@
+{
+  "name": "megamanBossRush-Editor",
+  "references": [
+    "megamanBossRush"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
